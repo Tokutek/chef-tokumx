@@ -1,6 +1,6 @@
 name                'tokumx'
 maintainer          'esmet'
-maintaner_email     'john.esmet@gmail.com'
+maintainer_email    'john.esmet@gmail.com'
 license             'Apache 2.0'
 description         'Wrapper cookbook over github.com/edelight/chef-mongodb for TokuMX'
 version             '0.1.0'
